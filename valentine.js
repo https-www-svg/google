@@ -55,15 +55,15 @@
 */
 const messages = [
     "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
+    "susssss",
+    "wehh balitaw gad?",
+    ">:((",
+    "pagisipan mo ng mabuti.",
     "If you say no, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Ok fine, edi wow d mo na ako mahal...",
+    "joke lang, yes lng sagt dito"
 ];
 
 let messageIndex = 0;
@@ -79,4 +79,5 @@ function handleNoClick() {
 
 function handleYesClick() {
     window.location.href = "yes_page.html";
+
 }
